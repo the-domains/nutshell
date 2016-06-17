@@ -1,14 +1,26 @@
-layout_spectrum: 0.972128227353096
-typography_spectrum: 0.43914267723448575
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.09183671
 color:
-  brandStrength: 0.8298531738109887
-  lightness: 0.30266635259613395
-  saturation: 0.15351011813618243
-  rhythmicContrast: 0.7499004213605076
+  saturation: 1
+  brandStrength: 0.3270676
+  lightness: 1
   brandColors:
-    - '#88A825'
-    - '#35203B'
-    - '#911146'
-    - '#CF4A30'
-    - '#ED8C2B'
+    - '#FFFFBD'
+    - '#635F5C'
+    - '#7E8DA0'
+    - '#392F26'
+    - '#A26F45'
+  rhythmicContrast: 0.7857143
+layout_spectrum: 0.9554242
 name: Nutshell
