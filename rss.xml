@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nutshell]]></title>
+        <description><![CDATA[Nutshell]]></description>
+        <link>https://thegrid.ai/nutshell/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 17 Jun 2016 18:40:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nutshell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Beautiful Speedometer for Bikes]]></title>
+            <description><![CDATA[<article><h1>A Beautiful Speedometer for Bikes</h1><p>Shout-out to designers who are also obsessed with cycling because their work frequently results in something new and clever, like the arresting Omata One. Mounted onto a bike, the speedometer's unique analog face informs of the four most relevant ride metrics (speed, distance, ascent and time).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d105236023603a813c26d257fbe058ad72b3f663.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/tech/omata-one-analog-gps-speedometer-cycling-kickstarter</link>
+            <guid isPermaLink="false">175eee2a-6116-42c5-9691-a14648cf27b3</guid>
+            <pubDate>Fri, 17 Jun 2016 18:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Giant Galaxy Orbiting Our Own Just Appeared Out of Nowhere]]></title>
+            <description><![CDATA[<article><h1>A Giant Galaxy Orbiting Our Own Just Appeared Out of Nowhere</h1><p>Researchers scanning the skies just got a big surprise. They spotted a humongous galaxy orbiting our own, where none had been seen before. It appeared, seemingly, out of nowhere. So, just how did the newly-discovered Crater 2 manage to pull off this feat, like a deer leaping from the interstellar bushes to stare us down through our collective headlights?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3b53f341e9bfa1b291542ff36d386f62/noop.jpg?input=http%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--KJc-Uo0o--%2Fc_scale%2Cfl_progressive%2Cq_80%2Cw_800%2Fssbcmy6vcoq8ggiiinid.jpg"></article>]]></description>
+            <link>http://gizmodo.com/a-giant-galaxy-orbiting-our-own-just-appeared-out-of-no-1771257641</link>
+            <guid isPermaLink="false">e81b562d-474a-4c1b-b4cc-6eb5b2bf9aca</guid>
+            <pubDate>Fri, 17 Jun 2016 18:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Light Phone: Designed for Disconnecting]]></title>
+            <description><![CDATA[<article><h1>The Light Phone: Designed for Disconnecting</h1><p>Phone addiction is real-as evidenced by a quick glance down the street, in the subway, even at the dinner table-and is one of the reasons why Apple developed a watch: so we would look at our screens less and be present more. For some, however, a smartwatch isn't enough-it still leaves room for fiddling and distraction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83d0f5ce299ad3d7f079d449896c88dcc2ec48b8.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/tech/the-light-phone-kickstarter-minimalist-phone-for-disconnecting</link>
+            <guid isPermaLink="false">cc823992-4aab-43d4-ba39-f0975234138a</guid>
+            <pubDate>Fri, 17 Jun 2016 18:40:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
