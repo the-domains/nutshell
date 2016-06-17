@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.09183671
 color:
   saturation: 1
   brandStrength: 0.3270676
   lightness: 1
   brandColors:
-    - '#FFFFBD'
-    - '#635F5C'
-    - '#7E8DA0'
-    - '#392F26'
-    - '#A26F45'
+    - '#163236'
+    - '#FFFFDF'
+    - '#FFBD90'
+    - '#5A8052'
+    - '#98C584'
   rhythmicContrast: 0.7857143
+typography_spectrum: 0.09183671
 layout_spectrum: 0.9554242
 name: Nutshell
